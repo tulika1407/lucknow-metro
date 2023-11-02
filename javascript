@@ -1,29 +1,29 @@
 const metroStations = {
-    "Namma Metro Station": {
-  "MG Road Station": 10,
-  "Jayanagar Station": 5,
+    "amausi station": {
+  "transport nagar station": 10,
+  "Krishna Nagar Station": 5,
 },
-"MG Road Station": {
-  "Namma Metro Station": 10,
-  "Jayanagar Station": 10,
-  "Lakshmi Nagar Station": 20,
+"trasport nagar Station": {
+  "singar nagar Station": 10,
+  "alambagh Station": 10,
+  "alambagh bus stand Station": 20,
 },
-"Jayanagar Station": {
-  "Namma Metro Station": 5,
-  "MG Road Station": 10,
-  "Lakshmi Nagar Station": 10,
-  "Peenya Industry Station": 20,
+"Krishna Nagar Station": {
+  "singar nagar Station": 5,
+  "transport nagar": 10,
+  "mawaiya": 10,
+  "charbagh": 20,
 },
-"Lakshmi Nagar Station": {
-  "MG Road Station": 20,
-  "Jayanagar Station": 10,
-  "Peenya Industry Station": 10,
-  "Silk Board Station": 30,
+"mawaiya": {
+  "transport nagar": 20,
+  "krishna nagar": 10,
+  "durga puri": 10,
+  "hussain ganj": 30,
 },
 "Peenya Industry Station": {
   "Jayanagar Station": 20,
   "Lakshmi Nagar Station": 10,
-  "Silk Board Station": 20,
+  "gautam budha marg": 20,
 },
 "Silk Board Station": {
   "Lakshmi Nagar Station": 30,
@@ -36,18 +36,18 @@ const metroStations = {
 },
 "Hosahalli Station": {
   "KR Puram Station": 20,
-  "Sarjapur Road Station": 20,
+  "Aminabad": 20,
 },
-"Sarjapur Road Station": {
+"pandeyaganj": {
   "Hosahalli Station": 20,
   "Kengeri Station": 20,
 },
-"Kengeri Station": {
+"gautam budha marg": {
   "Sarjapur Road Station": 20,
   "Yelagirinagar Station": 20,
 },
-"Yelagirinagar Station": {
-  "Kengeri Station": 20,
+"KD singh stadium": {
+  "IT chauraha": 20,
   "Mahadevapura Station": 20,
 },
 "Mahadevapura Station": {
@@ -92,7 +92,7 @@ const metroStations = {
     'Peenya Industry Station': 20,
     'KR Puram Station': 20,
   },
-  'KR Puram Station': {
+  'lekhraj': {
     'Silk Board Station': 20,
     'Hosahalli Station': 20,
   },
@@ -101,14 +101,14 @@ const metroStations = {
     'Sarjapur Road Station': 20,
   },
   'Sarjapur Road Station': {
-    'Hosahalli Station': 20,
+    'hazratganj': 20,
     'Kengeri Station': 20,
   },
-  'Kengeri Station': {
+  'indiranagar': {
     'Sarjapur Road Station': 20,
     'Yelagirinagar Station': 20,
   },
-  'Yelagirinagar Station': {
+  'nawazganj': {
     'Kengeri Station': 20,
     'Mahadevapura Station': 20,
   },
@@ -116,12 +116,12 @@ const metroStations = {
     'Yelagirinagar Station': 20,
     'Hosakote Station': 20,
   },
-  'Hosakote Station': {
+  'badshahnagar': {
     'Mahadevapura Station': 20,
     'Attibele Station': 20,
   },
   'Attibele Station': {
-    'Hosakote Station': 20,
+    'badshahnagar': 20,
   },
 };
 
