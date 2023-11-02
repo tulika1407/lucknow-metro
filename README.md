@@ -1,7 +1,7 @@
 # lucknow-metro
 
 (This project is for finding shortest path between two path in lucknow metro.)
-Introducing the Bangalore Metro Shortest Path Finder project! This web application has been created to assist Bangalore commuters in discovering the most efficient route between two locations within the Bangalore Metro network. Developed using HTML, CSS, and JavaScript, this project utilizes Dijkstra's algorithm to determine the quickest route and the associated fare for your travel.
+Introducing the Lucknow Metro Shortest Path Finder project! This web application has been created to assist Lucknow commuters in discovering the most efficient route between two locations within the Lucknow Metro network. Developed using HTML, CSS, and JavaScript, this project utilizes Dijkstra's algorithm to determine the quickest route and the associated fare for your travel.
 
 # Features
 
