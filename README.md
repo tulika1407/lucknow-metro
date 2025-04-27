@@ -9,7 +9,7 @@ Efficient Path Computation: This application harnesses Dijkstra's algorithm to c
 
 Fare Calculation: In addition to identifying the shortest path, our tool also computes the fare for your journey, factoring in the number of stations traversed and the distance covered.
 
-Interactive Metro Map: Explore the Bangalore Metro system using our interactive map, enabling you to locate stations and plan your routes with ease.
+Interactive Metro Map: Explore the Lucknow Metro system using our interactive map, enabling you to locate stations and plan your routes with ease.
 
 Real-Time Updates: Stay well-informed with real-time information regarding station closures, delays, and other critical alerts to enhance your commuting experience.
 
